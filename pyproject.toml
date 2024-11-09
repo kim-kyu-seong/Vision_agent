@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "special-effects-and-panorama-tools"
+version = "0.1.0"
+description = "A tool using OpenCV and PyQt6 to apply special effects and create panorama images."
+authors = ["Kim Kyu Seong <aicahero6@syuin.ac.kr>"]
+repository = "https://github.com/yourusername/special-effects-and-panorama-tools"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python = "^4.5"
+opencv-contrib-python = "^4.5"
+PyQt6 = "^6.0"
+numpy = "^1.21"
+
